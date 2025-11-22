@@ -1,0 +1,50 @@
+Algorithm
+Variable
+Function
+Loop
+Condition
+Object
+Class
+Method
+Parameter
+Argument
+Data type
+Array
+List
+Dictionary
+String
+Boolean
+Null
+Debugging
+Compiler
+Interpreter
+Source code
+API
+Framework
+Library
+Module
+Version control
+Git
+Repository
+Commit
+Merge
+Branch
+Pull request
+Build
+Deployment
+Server
+Client
+Protocol
+HTTP
+JSON
+XML
+Backend
+Frontend
+Full-stack
+REST
+Middleware
+Thread
+Asynchronous
+Database
+Query
+CRUD

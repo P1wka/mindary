@@ -1,4 +1,4 @@
-**mindary - A virtual dictionary
+**mindary - A virtual dictionary**
 
 *What is it for?
 - mindary, is a virtual dictionary. You can write things that you can forget. When you searched from mindary, it helps to you remember.
